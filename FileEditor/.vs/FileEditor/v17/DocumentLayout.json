@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\FileEditor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70FA830A-1044-4CF1-BEF2-60FAB9DABD2B}|FileEditor\\FileEditor.csproj|c:\\users\\kevin\\source\\repos\\fileeditor\\fileeditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70FA830A-1044-4CF1-BEF2-60FAB9DABD2B}|FileEditor\\FileEditor.csproj|solutionrelative:fileeditor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\FileEditor\\FileEditor\\Program.cs",
+              "RelativeDocumentMoniker": "FileEditor\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\FileEditor\\FileEditor\\Program.cs",
+              "RelativeToolTip": "FileEditor\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAD4vykAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:53:50.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
